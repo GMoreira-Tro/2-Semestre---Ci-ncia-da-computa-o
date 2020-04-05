@@ -1,0 +1,11 @@
+Estabelecimento: Unisinos
+Nível: 1
+Patriarcal
+Código estruturado: 1
+Código reduzido: 1
+
+Estabelecimento: Nivel 2
+Nível: 2
+Estabelecimento pai: Unisinos
+Código estruturado: 1.2
+Código reduzido: 2

@@ -1,0 +1,4 @@
+Suzuki	Toyota	Caminhonete
+Caminhão brabo	Vrum vrum	Caminhão
+Torime	Ameno	Veículo de aplicativo
+Sei lá os nome	Nissan	Carro

@@ -1,0 +1,89 @@
+Tipo: Estadual
+Estado: SC
+Nome: Nome do deputado 0
+Idade: 10
+Sexo: F
+Partido: PQT
+Numero: 949
+Projeto: Texto do projeto do deputado 0
+---
+Tipo: Federal
+Tempo de política: 37
+Nome: Nome do deputado 1
+Idade: 12
+Sexo: M
+Partido: PQT
+Numero: 792
+Projeto: Texto do projeto do deputado 1
+---
+Tipo: Estadual
+Estado: PR
+Nome: Nome do deputado 2
+Idade: 5
+Sexo: M
+Partido: PPX
+Numero: 9
+Projeto: Texto do projeto do deputado 2
+---
+Tipo: Federal
+Tempo de política: 30
+Nome: Nome do deputado 3
+Idade: 21
+Sexo: F
+Partido: PQT
+Numero: 247
+Projeto: Texto do projeto do deputado 3
+---
+Tipo: Estadual
+Estado: RJ
+Nome: Nome do deputado 4
+Idade: 22
+Sexo: M
+Partido: PPX
+Numero: 706
+Projeto: Texto do projeto do deputado 4
+---
+Tipo: Federal
+Tempo de política: 27
+Nome: Nome do deputado 5
+Idade: 34
+Sexo: M
+Partido: PPP
+Numero: 537
+Projeto: Texto do projeto do deputado 5
+---
+Tipo: Estadual
+Estado: RS
+Nome: Nome do deputado 6
+Idade: 32
+Sexo: F
+Partido: PPP
+Numero: 412
+Projeto: Texto do projeto do deputado 6
+---
+Tipo: Federal
+Tempo de política: 35
+Nome: Nome do deputado 7
+Idade: 39
+Sexo: M
+Partido: PPP
+Numero: 574
+Projeto: Texto do projeto do deputado 7
+---
+Tipo: Estadual
+Estado: SC
+Nome: Nome do deputado 8
+Idade: 27
+Sexo: M
+Partido: PQT
+Numero: 197
+Projeto: Texto do projeto do deputado 8
+---
+Tipo: Federal
+Tempo de política: 25
+Nome: Nome do deputado 9
+Idade: 7
+Sexo: F
+Partido: PPX
+Numero: 76
+Projeto: Texto do projeto do deputado 9
